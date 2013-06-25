@@ -1,3 +1,4 @@
+{% markdown %}
 ## Documentation
 
 Welcome to FineUploader's documentation. This documentation is divided into different parts. It's recommended that you start at the [Users' guide](#userss-guide) and afterwards head over to [Quickstart](#quickstart). If you’d rather dive into the internals of FineUploader, check out the [API documentation](#api-reference). Common server-side examples are found in the [server examples repository](#server-side).
@@ -48,8 +49,4 @@ The API reference is primarily for experienced integrators who are looking for m
 * [Promises](api/promise.md)
 * [Utility functions](api/qquery.md)
 * [Feature Detection module](api/feature-detection.md)
-
-
-
-
-
+{% endmarkdown %}

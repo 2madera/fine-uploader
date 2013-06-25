@@ -1,3 +1,4 @@
+{% markdown %}
 ## Frequently Asked Questions (FAQ) ##
 **Q**: Why can't I select multiple files at once in Android?    
 **A**: Android doesn't officially support the multiple attribute on file input elements.  I believe
@@ -71,3 +72,4 @@ supported in Chrome 21+, since this is the only browser that implements the File
 agent string to determine if folder dropping is supported, and then inform your users in your application's UI.
 Theoretically, you could check for the appropriate function on the [DataTransfer](http://www.w3.org/TR/2011/WD-html5-20110113/dnd.html#the-datatransfer-interface)
 object prototype, but this would not work cross-browser, since webkit does not expose this interface, unfortunately.
+{% endmarkdown %}

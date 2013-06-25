@@ -1,3 +1,4 @@
+{% markdown %}
 ## Features ##
 * Multiple file select, progress-bar in FF, Chrome, and Safari
 * Drag-and-drop file select in FF, Chrome, and Safari (OS X)
@@ -30,3 +31,4 @@
 * [Retrieve statistics for uploaded files and receive callbacks on status changes](http://blog.fineuploader.com/2013/05/query-fine-uploader-for-upload-stats.html)
 * [Edit / override filenames](http://blog.fineuploader.com/2013/06/37-edit-override-filenames.html)
 * And many more!
+{% endmarkdown %}
